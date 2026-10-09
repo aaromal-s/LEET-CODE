@@ -1,1 +1,66 @@
-# LEET-CODE
+# 🚀 LeetCode Solutions Repository
+
+Welcome to my personal LeetCode problem solutions repository! This repository tracks my problem-solving journey, categorized by topic with detailed explanations, clean code implementations, and complexity analyses.
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aromal2486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aromal2486/)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-27-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
+
+---
+
+## 📊 Summary Statistics
+
+| Metric | Count |
+| :--- | :---: |
+| 🟢 **Easy** | **25** |
+| 🟡 **Medium** | **2** |
+| 🔴 **Hard** | **0** |
+| **Total Tracked** | **27** |
+
+---
+
+## 📁 Repository Structure by Category
+
+| Category | Solved Count | Folder Link |
+| :--- | :---: | :--- |
+| 📦 **Arrays** | 11 | [📁 Arrays](./Arrays/README.md) |
+| 🔤 **Strings** | 2 | [📁 Strings](./Strings/README.md) |
+| 📚 **Stack** | 1 | [📁 Stack](./Stack/README.md) |
+| 🔗 **Linked List** | 1 | [📁 Linked-List](./Linked-List/README.md) |
+| 🔍 **Binary Search** | 1 | [📁 Binary-Search](./Binary-Search/README.md) |
+| ⚡ **Bit Manipulation** | 2 | [📁 Bit-Manipulation](./Bit-Manipulation/README.md) |
+| ➗ **Math** | 2 | [📁 Math](./Math/README.md) |
+| 🗄️ **Database (SQL)** | 7 | [📁 Database](./Database/README.md) |
+
+---
+
+## 📑 Complete Problem Index
+
+| # | Title | Difficulty | Category | Solution Document |
+| :-: | :--- | :-: | :-: | :--- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | Arrays | [1. Two Sum.md](./Arrays/1.%20Two%20Sum.md) |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | Strings | [14. Longest Common Prefix.md](./Strings/14.%20Longest%20Common%20Prefix.md) |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | Linked List | [19. Remove Nth Node From End of List.md](./Linked-List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md) |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | Stack | [20. Valid Parentheses.md](./Stack/20.%20Valid%20Parentheses.md) |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | Arrays | [26. Remove Duplicates from Sorted Array.md](./Arrays/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md) |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | Arrays | [27. Remove Element.md](./Arrays/27.%20Remove%20Element.md) |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | Binary Search | [35. Search Insert Position.md](./Binary-Search/35.%20Search%20Insert%20Position.md) |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | 🟢 Easy | Arrays | [66. Plus One.md](./Arrays/66.%20Plus%20One.md) |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | Arrays | [88. Merge Sorted Array.md](./Arrays/88.%20Merge%20Sorted%20Array.md) |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | 🟢 Easy | Arrays | [118. Pascal's Triangle.md](./Arrays/118.%20Pascal's%20Triangle.md) |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | Arrays | [121. Best Time to Buy and Sell Stock.md](./Arrays/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | Bit Manipulation | [136. Single Number.md](./Bit-Manipulation/136.%20Single%20Number.md) |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | Arrays | [169. Majority Element.md](./Arrays/169.%20Majority%20Element.md) |
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | 🟢 Easy | Database | [175. Combine Two Tables.md](./Database/175.%20Combine%20Two%20Tables.md) |
+| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | 🟢 Easy | Database | [181. Employees Earning More Than Their Managers.md](./Database/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.md) |
+| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | 🟢 Easy | Database | [182. Duplicate Emails.md](./Database/182.%20Duplicate%20Emails.md) |
+| 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | 🟢 Easy | Database | [183. Customers Who Never Order.md](./Database/183.%20Customers%20Who%20Never%20Order.md) |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | Arrays | [189. Rotate Array.md](./Arrays/189.%20Rotate%20Array.md) |
+| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | 🟢 Easy | Database | [196. Delete Duplicate Emails.md](./Database/196.%20Delete%20Duplicate%20Emails.md) |
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | 🟢 Easy | Database | [197. Rising Temperature.md](./Database/197.%20Rising%20Temperature.md) |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | Arrays | [217. Contains Duplicate.md](./Arrays/217.%20Contains%20Duplicate.md) |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | Bit Manipulation | [268. Missing Number.md](./Bit-Manipulation/268.%20Missing%20Number.md) |
+| 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | 🟢 Easy | Database | [511. Game Play Analysis I.md](./Database/511.%20Game%20Play%20Analysis%20I.md) |
+| 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | 🟢 Easy | Arrays | [605. Can Place Flowers.md](./Arrays/605.%20Can%20Place%20Flowers.md) |
+| 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | 🟢 Easy | Math | [1217. Minimum Cost to Move Chips to The Same Position.md](./Math/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.md) |
+| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | 🟢 Easy | Strings | [1768. Merge Strings Alternately.md](./Strings/1768.%20Merge%20Strings%20Alternately.md) |
+| 2481 | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | 🟢 Easy | Math | [2481. Minimum Cuts to Divide a Circle.md](./Math/2481.%20Minimum%20Cuts%20to%20Divide%20a%20Circle.md) |
