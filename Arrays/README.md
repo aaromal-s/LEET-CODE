@@ -19,3 +19,5 @@ This folder contains solutions to LeetCode problems focused on **Arrays**, **Two
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | 3-Step Reverse | $O(n)$ | $O(1)$ | [189. Rotate Array.md](./189.%20Rotate%20Array.md) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | Hash Set | $O(n)$ | $O(n)$ | [217. Contains Duplicate.md](./217.%20Contains%20Duplicate.md) |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | 🟢 Easy | Greedy Adjacent Check | $O(n)$ | $O(1)$ | [605. Can Place Flowers.md](./605.%20Can%20Place%20Flowers.md) |
+| 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | 🟢 Easy | Precompute Max & Single Pass | $O(n)$ | $O(1)$ | [1431. Kids With the Greatest Number of Candies.md](./1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) |
+
