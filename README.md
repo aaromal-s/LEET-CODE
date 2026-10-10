@@ -3,7 +3,7 @@
 Welcome to my personal LeetCode problem solutions repository! This repository tracks my problem-solving journey, categorized by topic with detailed explanations, clean code implementations, and complexity analyses.
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aromal2486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aromal2486/)
-[![Solved](https://img.shields.io/badge/Problems%20Solved-27-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-30-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
 
 ---
 
@@ -11,10 +11,10 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 
 | Metric | Count |
 | :--- | :---: |
-| 🟢 **Easy** | **25** |
+| 🟢 **Easy** | **28** |
 | 🟡 **Medium** | **2** |
 | 🔴 **Hard** | **0** |
-| **Total Tracked** | **27** |
+| **Total Tracked** | **30** |
 
 ---
 
@@ -22,8 +22,8 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 
 | Category | Solved Count | Folder Link |
 | :--- | :---: | :--- |
-| 📦 **Arrays** | 11 | [📁 Arrays](./Arrays/README.md) |
-| 🔤 **Strings** | 2 | [📁 Strings](./Strings/README.md) |
+| 📦 **Arrays** | 12 | [📁 Arrays](./Arrays/README.md) |
+| 🔤 **Strings** | 4 | [📁 Strings](./Strings/README.md) |
 | 📚 **Stack** | 1 | [📁 Stack](./Stack/README.md) |
 | 🔗 **Linked List** | 1 | [📁 Linked-List](./Linked-List/README.md) |
 | 🔍 **Binary Search** | 1 | [📁 Binary-Search](./Binary-Search/README.md) |
@@ -59,8 +59,11 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | 🟢 Easy | Database | [197. Rising Temperature.md](./Database/197.%20Rising%20Temperature.md) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | Arrays | [217. Contains Duplicate.md](./Arrays/217.%20Contains%20Duplicate.md) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | Bit Manipulation | [268. Missing Number.md](./Bit-Manipulation/268.%20Missing%20Number.md) |
+| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | 🟢 Easy | Strings | [345. Reverse Vowels of a String.md](./Strings/345.%20Reverse%20Vowels%20of%20a%20String.md) |
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | 🟢 Easy | Database | [511. Game Play Analysis I.md](./Database/511.%20Game%20Play%20Analysis%20I.md) |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | 🟢 Easy | Arrays | [605. Can Place Flowers.md](./Arrays/605.%20Can%20Place%20Flowers.md) |
+| 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | 🟢 Easy | Strings | [1071. Greatest Common Divisor of Strings.md](./Strings/1071.%20Greatest%20Common%20Divisor%20of%20Strings.md) |
 | 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | 🟢 Easy | Math | [1217. Minimum Cost to Move Chips to The Same Position.md](./Math/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.md) |
+| 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | 🟢 Easy | Arrays | [1431. Kids With the Greatest Number of Candies.md](./Arrays/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | 🟢 Easy | Strings | [1768. Merge Strings Alternately.md](./Strings/1768.%20Merge%20Strings%20Alternately.md) |
 | 2481 | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | 🟢 Easy | Math | [2481. Minimum Cuts to Divide a Circle.md](./Math/2481.%20Minimum%20Cuts%20to%20Divide%20a%20Circle.md) |
