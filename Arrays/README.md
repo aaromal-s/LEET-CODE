@@ -18,6 +18,7 @@ This folder contains solutions to LeetCode problems focused on **Arrays**, **Two
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | Boyer-Moore Voting | $O(n)$ | $O(1)$ | [169. Majority Element.md](./169.%20Majority%20Element.md) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | 3-Step Reverse | $O(n)$ | $O(1)$ | [189. Rotate Array.md](./189.%20Rotate%20Array.md) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | Hash Set | $O(n)$ | $O(n)$ | [217. Contains Duplicate.md](./217.%20Contains%20Duplicate.md) |
+| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | Prefix & Suffix Products | $O(n)$ | $O(1)$ | [238. Product of Array Except Self.md](./238.%20Product%20of%20Array%20Except%20Self.md) |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | 🟢 Easy | Greedy Adjacent Check | $O(n)$ | $O(1)$ | [605. Can Place Flowers.md](./605.%20Can%20Place%20Flowers.md) |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | 🟢 Easy | Precompute Max & Single Pass | $O(n)$ | $O(1)$ | [1431. Kids With the Greatest Number of Candies.md](./1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) |
 
