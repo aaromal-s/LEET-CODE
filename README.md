@@ -3,7 +3,7 @@
 Welcome to my personal LeetCode problem solutions repository! This repository tracks my problem-solving journey, categorized by topic with detailed explanations, clean code implementations, and complexity analyses.
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aromal2486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aromal2486/)
-[![Solved](https://img.shields.io/badge/Problems%20Solved-30-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-32-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
 
 ---
 
@@ -12,9 +12,9 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | Metric | Count |
 | :--- | :---: |
 | 🟢 **Easy** | **28** |
-| 🟡 **Medium** | **2** |
+| 🟡 **Medium** | **4** |
 | 🔴 **Hard** | **0** |
-| **Total Tracked** | **30** |
+| **Total Tracked** | **32** |
 
 ---
 
@@ -22,8 +22,8 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 
 | Category | Solved Count | Folder Link |
 | :--- | :---: | :--- |
-| 📦 **Arrays** | 12 | [📁 Arrays](./Arrays/README.md) |
-| 🔤 **Strings** | 4 | [📁 Strings](./Strings/README.md) |
+| 📦 **Arrays** | 13 | [📁 Arrays](./Arrays/README.md) |
+| 🔤 **Strings** | 5 | [📁 Strings](./Strings/README.md) |
 | 📚 **Stack** | 1 | [📁 Stack](./Stack/README.md) |
 | 🔗 **Linked List** | 1 | [📁 Linked-List](./Linked-List/README.md) |
 | 🔍 **Binary Search** | 1 | [📁 Binary-Search](./Binary-Search/README.md) |
@@ -49,6 +49,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | 🟢 Easy | Arrays | [118. Pascal's Triangle.md](./Arrays/118.%20Pascal's%20Triangle.md) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | Arrays | [121. Best Time to Buy and Sell Stock.md](./Arrays/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | Bit Manipulation | [136. Single Number.md](./Bit-Manipulation/136.%20Single%20Number.md) |
+| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | Strings | [151. Reverse Words in a String.md](./Strings/151.%20Reverse%20Words%20in%20a%20String.md) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | Arrays | [169. Majority Element.md](./Arrays/169.%20Majority%20Element.md) |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | 🟢 Easy | Database | [175. Combine Two Tables.md](./Database/175.%20Combine%20Two%20Tables.md) |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | 🟢 Easy | Database | [181. Employees Earning More Than Their Managers.md](./Database/181.%20Employees%20Earning%20More%20Than%20Their%20Managers.md) |
@@ -58,6 +59,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | 🟢 Easy | Database | [196. Delete Duplicate Emails.md](./Database/196.%20Delete%20Duplicate%20Emails.md) |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | 🟢 Easy | Database | [197. Rising Temperature.md](./Database/197.%20Rising%20Temperature.md) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | Arrays | [217. Contains Duplicate.md](./Arrays/217.%20Contains%20Duplicate.md) |
+| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | 🟡 Medium | Arrays | [238. Product of Array Except Self.md](./Arrays/238.%20Product%20of%20Array%20Except%20Self.md) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | Bit Manipulation | [268. Missing Number.md](./Bit-Manipulation/268.%20Missing%20Number.md) |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | 🟢 Easy | Strings | [345. Reverse Vowels of a String.md](./Strings/345.%20Reverse%20Vowels%20of%20a%20String.md) |
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | 🟢 Easy | Database | [511. Game Play Analysis I.md](./Database/511.%20Game%20Play%20Analysis%20I.md) |
