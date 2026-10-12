@@ -15,3 +15,5 @@ This folder contains solutions to LeetCode **Database / MySQL** problems focusin
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | 🟢 Easy | `DELETE` with Self Join | $O(N \log N)$ | $O(1)$ | [196. Delete Duplicate Emails.md](./196.%20Delete%20Duplicate%20Emails.md) |
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | 🟢 Easy | Date Diff Self Join (`DATEDIFF`) | $O(N)$ | $O(N)$ | [197. Rising Temperature.md](./197.%20Rising%20Temperature.md) |
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | 🟢 Easy | `GROUP BY` & `MIN()` | $O(N)$ | $O(P)$ | [511. Game Play Analysis I.md](./511.%20Game%20Play%20Analysis%20I.md) |
+| 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | 🟢 Easy | `LEFT JOIN` & `IS NULL` | $O(E + B)$ | $O(E)$ | [577. Employee Bonus.md](./577.%20Employee%20Bonus.md) |
+| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | 🟢 Easy | Three-Valued Logic / `IS NULL` | $O(N)$ | $O(N)$ | [584. Find Customer Referee.md](./584.%20Find%20Customer%20Referee.md) |

@@ -3,7 +3,7 @@
 Welcome to my personal LeetCode problem solutions repository! This repository tracks my problem-solving journey, categorized by topic with detailed explanations, clean code implementations, and complexity analyses.
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aromal2486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aromal2486/)
-[![Solved](https://img.shields.io/badge/Problems%20Solved-32-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-34-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
 
 ---
 
@@ -11,10 +11,10 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 
 | Metric | Count |
 | :--- | :---: |
-| 🟢 **Easy** | **28** |
+| 🟢 **Easy** | **30** |
 | 🟡 **Medium** | **4** |
 | 🔴 **Hard** | **0** |
-| **Total Tracked** | **32** |
+| **Total Tracked** | **34** |
 
 ---
 
@@ -29,7 +29,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 🔍 **Binary Search** | 1 | [📁 Binary-Search](./Binary-Search/README.md) |
 | ⚡ **Bit Manipulation** | 2 | [📁 Bit-Manipulation](./Bit-Manipulation/README.md) |
 | ➗ **Math** | 2 | [📁 Math](./Math/README.md) |
-| 🗄️ **Database (SQL)** | 7 | [📁 Database](./Database/README.md) |
+| 🗄️ **Database (SQL)** | 9 | [📁 Database](./Database/README.md) |
 
 ---
 
@@ -63,6 +63,8 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | Bit Manipulation | [268. Missing Number.md](./Bit-Manipulation/268.%20Missing%20Number.md) |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | 🟢 Easy | Strings | [345. Reverse Vowels of a String.md](./Strings/345.%20Reverse%20Vowels%20of%20a%20String.md) |
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | 🟢 Easy | Database | [511. Game Play Analysis I.md](./Database/511.%20Game%20Play%20Analysis%20I.md) |
+| 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | 🟢 Easy | Database | [577. Employee Bonus.md](./Database/577.%20Employee%20Bonus.md) |
+| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | 🟢 Easy | Database | [584. Find Customer Referee.md](./Database/584.%20Find%20Customer%20Referee.md) |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | 🟢 Easy | Arrays | [605. Can Place Flowers.md](./Arrays/605.%20Can%20Place%20Flowers.md) |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | 🟢 Easy | Strings | [1071. Greatest Common Divisor of Strings.md](./Strings/1071.%20Greatest%20Common%20Divisor%20of%20Strings.md) |
 | 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | 🟢 Easy | Math | [1217. Minimum Cost to Move Chips to The Same Position.md](./Math/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.md) |
