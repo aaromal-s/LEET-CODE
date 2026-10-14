@@ -3,7 +3,7 @@
 Welcome to my personal LeetCode problem solutions repository! This repository tracks my problem-solving journey, categorized by topic with detailed explanations, clean code implementations, and complexity analyses.
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aromal2486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aromal2486/)
-[![Solved](https://img.shields.io/badge/Problems%20Solved-36-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-37-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
 
 ---
 
@@ -11,10 +11,10 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 
 | Metric | Count |
 | :--- | :---: |
-| 🟢 **Easy** | **32** |
+| 🟢 **Easy** | **33** |
 | 🟡 **Medium** | **4** |
 | 🔴 **Hard** | **0** |
-| **Total Tracked** | **36** |
+| **Total Tracked** | **37** |
 
 ---
 
@@ -28,7 +28,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 🔗 **Linked List** | 1 | [📁 Linked-List](./Linked-List/README.md) |
 | 🔍 **Binary Search** | 1 | [📁 Binary-Search](./Binary-Search/README.md) |
 | ⚡ **Bit Manipulation** | 2 | [📁 Bit-Manipulation](./Bit-Manipulation/README.md) |
-| ➗ **Math** | 3 | [📁 Math](./Math/README.md) |
+| ➗ **Math** | 4 | [📁 Math](./Math/README.md) |
 | 🗄️ **Database (SQL)** | 12 | [📁 Database](./Database/README.md) |
 
 ---
@@ -38,6 +38,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | # | Title | Difficulty | Category | Solution Document |
 | :-: | :--- | :-: | :-: | :--- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | Arrays | [1. Two Sum.md](./Arrays/1.%20Two%20Sum.md) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | Math | [9. Palindrome Number.md](./Math/9.%20Palindrome%20Number.md) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | Strings | [14. Longest Common Prefix.md](./Strings/14.%20Longest%20Common%20Prefix.md) |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | Linked List | [19. Remove Nth Node From End of List.md](./Linked-List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | Stack | [20. Valid Parentheses.md](./Stack/20.%20Valid%20Parentheses.md) |
@@ -73,3 +74,4 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 2481 | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | 🟢 Easy | Math | [2481. Minimum Cuts to Divide a Circle.md](./Math/2481.%20Minimum%20Cuts%20to%20Divide%20a%20Circle.md) |
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | 🟡 Medium | Math | [3723. Maximize Sum of Squares of Digits.md](./Math/3723.%20Maximize%20Sum%20of%20Squares%20of%20Digits.md) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | 🟡 Medium | Arrays | [3727. Maximum Alternating Sum of Squares.md](./Arrays/3727.%20Maximum%20Alternating%20Sum%20of%20Squares.md) |
+
