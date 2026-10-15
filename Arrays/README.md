@@ -19,5 +19,6 @@ This folder contains solutions to LeetCode problems focused on **Arrays**, **Two
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | Hash Set | $O(n)$ | $O(n)$ | [217. Contains Duplicate.md](./217.%20Contains%20Duplicate.md) |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | 🟢 Easy | Greedy Adjacent Check | $O(n)$ | $O(1)$ | [605. Can Place Flowers.md](./605.%20Can%20Place%20Flowers.md) |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | 🟢 Easy | Precompute Max & Single Pass | $O(n)$ | $O(1)$ | [1431. Kids With the Greatest Number of Candies.md](./1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | 🟢 Easy | Running Distinct Set | $O(n^2)$ | $O(n)$ | [2913. Subarrays Distinct Element Sum of Squares I.md](./2913.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20I.md) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | 🟡 Medium | Sorting & Greedy Partition | $O(n \log n)$ | $O(n)$ | [3727. Maximum Alternating Sum of Squares.md](./3727.%20Maximum%20Alternating%20Sum%20of%20Squares.md) |
 
