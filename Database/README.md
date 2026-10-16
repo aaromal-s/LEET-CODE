@@ -22,3 +22,4 @@ This folder contains solutions to LeetCode **Database / MySQL** problems focusin
 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | 🟢 Easy | `GROUP BY` & `HAVING COUNT() >= 5` | $O(N)$ | $O(K)$ | [596. Classes More Than 5 Students.md](./596.%20Classes%20More%20Than%205%20Students.md) |
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | 🟢 Easy | Subquery with `NOT IN` | $O(O + C + S)$ | $O(U)$ | [607. Sales Person.md](./607.%20Sales%20Person.md) |
 | 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | 🟢 Easy | Triangle Inequality (`CASE WHEN`) | $O(N)$ | $O(1)$ | [610. Triangle Judgement.md](./610.%20Triangle%20Judgement.md) |
+| 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | 🟢 Easy | `GROUP BY` & `MAX()` Subquery | $O(N)$ | $O(U)$ | [619. Biggest Single Number.md](./619.%20Biggest%20Single%20Number.md) |
