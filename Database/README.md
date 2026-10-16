@@ -23,3 +23,4 @@ This folder contains solutions to LeetCode **Database / MySQL** problems focusin
 | 607 | [Sales Person](https://leetcode.com/problems/sales-person/) | 🟢 Easy | Subquery with `NOT IN` | $O(O + C + S)$ | $O(U)$ | [607. Sales Person.md](./607.%20Sales%20Person.md) |
 | 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | 🟢 Easy | Triangle Inequality (`CASE WHEN`) | $O(N)$ | $O(1)$ | [610. Triangle Judgement.md](./610.%20Triangle%20Judgement.md) |
 | 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | 🟢 Easy | `GROUP BY` & `MAX()` Subquery | $O(N)$ | $O(U)$ | [619. Biggest Single Number.md](./619.%20Biggest%20Single%20Number.md) |
+| 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | 🟢 Easy | Filter (`MOD`) & `ORDER BY DESC` | $O(N \log N)$ | $O(K)$ | [620. Not Boring Movies.md](./620.%20Not%20Boring%20Movies.md) |
