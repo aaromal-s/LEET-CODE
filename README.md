@@ -3,7 +3,7 @@
 Welcome to my personal LeetCode problem solutions repository! This repository tracks my problem-solving journey, categorized by topic with detailed explanations, clean code implementations, and complexity analyses.
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aromal2486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aromal2486/)
-[![Solved](https://img.shields.io/badge/Problems%20Solved-45-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-46-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
 
 ---
 
@@ -11,10 +11,10 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 
 | Metric | Count |
 | :--- | :---: |
-| 🟢 **Easy** | **40** |
+| 🟢 **Easy** | **41** |
 | 🟡 **Medium** | **4** |
 | 🔴 **Hard** | **1** |
-| **Total Tracked** | **45** |
+| **Total Tracked** | **46** |
 
 ---
 
@@ -29,7 +29,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 🔍 **Binary Search** | 1 | [📁 Binary-Search](./Binary-Search/README.md) |
 | ⚡ **Bit Manipulation** | 2 | [📁 Bit-Manipulation](./Bit-Manipulation/README.md) |
 | ➗ **Math** | 4 | [📁 Math](./Math/README.md) |
-| 🗄️ **Database (SQL)** | 17 | [📁 Database](./Database/README.md) |
+| 🗄️ **Database (SQL)** | 18 | [📁 Database](./Database/README.md) |
 
 ---
 
@@ -73,6 +73,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | 🟢 Easy | Database | [619. Biggest Single Number.md](./Database/619.%20Biggest%20Single%20Number.md) |
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | 🟢 Easy | Database | [620. Not Boring Movies.md](./Database/620.%20Not%20Boring%20Movies.md) |
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | 🟢 Easy | Database | [627. Swap Salary.md](./Database/627.%20Swap%20Salary.md) |
+| 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | 🟢 Easy | Database | [1050. Actors and Directors Who Cooperated At Least Three Times.md](./Database/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.md) |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | 🟢 Easy | Strings | [1071. Greatest Common Divisor of Strings.md](./Strings/1071.%20Greatest%20Common%20Divisor%20of%20Strings.md) |
 | 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | 🟢 Easy | Math | [1217. Minimum Cost to Move Chips to The Same Position.md](./Math/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.md) |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | 🟢 Easy | Arrays | [1431. Kids With the Greatest Number of Candies.md](./Arrays/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) |
