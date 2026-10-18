@@ -3,7 +3,7 @@
 Welcome to my personal LeetCode problem solutions repository! This repository tracks my problem-solving journey, categorized by topic with detailed explanations, clean code implementations, and complexity analyses.
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aromal2486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aromal2486/)
-[![Solved](https://img.shields.io/badge/Problems%20Solved-51-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-52-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
 
 ---
 
@@ -13,8 +13,8 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | :--- | :---: |
 | 🟢 **Easy** | **45** |
 | 🟡 **Medium** | **5** |
-| 🔴 **Hard** | **1** |
-| **Total Tracked** | **51** |
+| 🔴 **Hard** | **2** |
+| **Total Tracked** | **52** |
 
 ---
 
@@ -22,7 +22,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 
 | Category | Solved Count | Folder Link |
 | :--- | :---: | :--- |
-| 📦 **Arrays** | 15 | [📁 Arrays](./Arrays/README.md) |
+| 📦 **Arrays** | 16 | [📁 Arrays](./Arrays/README.md) |
 | 🔤 **Strings** | 5 | [📁 Strings](./Strings/README.md) |
 | 📚 **Stack** | 1 | [📁 Stack](./Stack/README.md) |
 | 🔗 **Linked List** | 1 | [📁 Linked-List](./Linked-List/README.md) |
@@ -81,6 +81,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | 🟢 Easy | Database | [1141. User Activity for the Past 30 Days I.md](./Database/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.md) |
 | 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | 🟢 Easy | Math | [1217. Minimum Cost to Move Chips to The Same Position.md](./Math/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.md) |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | 🟢 Easy | Arrays | [1431. Kids With the Greatest Number of Candies.md](./Arrays/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | 🔴 Hard | Arrays | [1569. Number of Ways to Reorder Array to Get Same BST.md](./Arrays/1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST.md) |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | 🟢 Easy | Strings | [1768. Merge Strings Alternately.md](./Strings/1768.%20Merge%20Strings%20Alternately.md) |
 | 2481 | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | 🟢 Easy | Math | [2481. Minimum Cuts to Divide a Circle.md](./Math/2481.%20Minimum%20Cuts%20to%20Divide%20a%20Circle.md) |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | 🟢 Easy | Arrays | [2913. Subarrays Distinct Element Sum of Squares I.md](./Arrays/2913.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20I.md) |
