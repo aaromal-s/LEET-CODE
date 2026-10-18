@@ -3,7 +3,7 @@
 Welcome to my personal LeetCode problem solutions repository! This repository tracks my problem-solving journey, categorized by topic with detailed explanations, clean code implementations, and complexity analyses.
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aromal2486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aromal2486/)
-[![Solved](https://img.shields.io/badge/Problems%20Solved-50-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-51-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
 
 ---
 
@@ -11,10 +11,10 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 
 | Metric | Count |
 | :--- | :---: |
-| 🟢 **Easy** | **44** |
+| 🟢 **Easy** | **45** |
 | 🟡 **Medium** | **5** |
 | 🔴 **Hard** | **1** |
-| **Total Tracked** | **50** |
+| **Total Tracked** | **51** |
 
 ---
 
@@ -29,7 +29,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 🔍 **Binary Search** | 1 | [📁 Binary-Search](./Binary-Search/README.md) |
 | ⚡ **Bit Manipulation** | 2 | [📁 Bit-Manipulation](./Bit-Manipulation/README.md) |
 | ➗ **Math** | 4 | [📁 Math](./Math/README.md) |
-| 🗄️ **Database (SQL)** | 21 | [📁 Database](./Database/README.md) |
+| 🗄️ **Database (SQL)** | 22 | [📁 Database](./Database/README.md) |
 
 ---
 
@@ -78,6 +78,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | 🟢 Easy | Strings | [1071. Greatest Common Divisor of Strings.md](./Strings/1071.%20Greatest%20Common%20Divisor%20of%20Strings.md) |
 | 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i/) | 🟢 Easy | Database | [1075. Project Employees I.md](./Database/1075.%20Project%20Employees%20I.md) |
 | 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | 🟢 Easy | Database | [1084. Sales Analysis III.md](./Database/1084.%20Sales%20Analysis%20III.md) |
+| 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | 🟢 Easy | Database | [1141. User Activity for the Past 30 Days I.md](./Database/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.md) |
 | 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | 🟢 Easy | Math | [1217. Minimum Cost to Move Chips to The Same Position.md](./Math/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.md) |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | 🟢 Easy | Arrays | [1431. Kids With the Greatest Number of Candies.md](./Arrays/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | 🟢 Easy | Strings | [1768. Merge Strings Alternately.md](./Strings/1768.%20Merge%20Strings%20Alternately.md) |
