@@ -3,7 +3,7 @@
 Welcome to my personal LeetCode problem solutions repository! This repository tracks my problem-solving journey, categorized by topic with detailed explanations, clean code implementations, and complexity analyses.
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aromal2486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aromal2486/)
-[![Solved](https://img.shields.io/badge/Problems%20Solved-54-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-55-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
 
 ---
 
@@ -11,10 +11,10 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 
 | Metric | Count |
 | :--- | :---: |
-| 🟢 **Easy** | **47** |
+| 🟢 **Easy** | **48** |
 | 🟡 **Medium** | **5** |
 | 🔴 **Hard** | **2** |
-| **Total Tracked** | **54** |
+| **Total Tracked** | **55** |
 
 ---
 
@@ -29,7 +29,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 🔍 **Binary Search** | 1 | [📁 Binary-Search](./Binary-Search/README.md) |
 | ⚡ **Bit Manipulation** | 2 | [📁 Bit-Manipulation](./Bit-Manipulation/README.md) |
 | ➗ **Math** | 4 | [📁 Math](./Math/README.md) |
-| 🗄️ **Database (SQL)** | 24 | [📁 Database](./Database/README.md) |
+| 🗄️ **Database (SQL)** | 25 | [📁 Database](./Database/README.md) |
 
 ---
 
@@ -81,6 +81,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | 🟢 Easy | Database | [1141. User Activity for the Past 30 Days I.md](./Database/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.md) |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | 🟢 Easy | Database | [1148. Article Views I.md](./Database/1148.%20Article%20Views%20I.md) |
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | 🟢 Easy | Database | [1179. Reformat Department Table.md](./Database/1179.%20Reformat%20Department%20Table.md) |
+| 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | 🟢 Easy | Database | [1211. Queries Quality and Percentage.md](./Database/1211.%20Queries%20Quality%20and%20Percentage.md) |
 | 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | 🟢 Easy | Math | [1217. Minimum Cost to Move Chips to The Same Position.md](./Math/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.md) |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | 🟢 Easy | Arrays | [1431. Kids With the Greatest Number of Candies.md](./Arrays/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | 🔴 Hard | Arrays | [1569. Number of Ways to Reorder Array to Get Same BST.md](./Arrays/1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST.md) |
