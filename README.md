@@ -3,7 +3,7 @@
 Welcome to my personal LeetCode problem solutions repository! This repository tracks my problem-solving journey, categorized by topic with detailed explanations, clean code implementations, and complexity analyses.
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aromal2486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aromal2486/)
-[![Solved](https://img.shields.io/badge/Problems%20Solved-61-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-62-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
 
 ---
 
@@ -13,8 +13,8 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | :--- | :---: |
 | 🟢 **Easy** | **54** |
 | 🟡 **Medium** | **5** |
-| 🔴 **Hard** | **2** |
-| **Total Tracked** | **61** |
+| 🔴 **Hard** | **3** |
+| **Total Tracked** | **62** |
 
 ---
 
@@ -22,7 +22,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 
 | Category | Solved Count | Folder Link |
 | :--- | :---: | :--- |
-| 📦 **Arrays** | 17 | [📁 Arrays](./Arrays/README.md) |
+| 📦 **Arrays** | 18 | [📁 Arrays](./Arrays/README.md) |
 | 🔤 **Strings** | 5 | [📁 Strings](./Strings/README.md) |
 | 📚 **Stack** | 1 | [📁 Stack](./Stack/README.md) |
 | 🔗 **Linked List** | 1 | [📁 Linked-List](./Linked-List/README.md) |
@@ -98,5 +98,6 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | 🟡 Medium | Arrays | [3551. Minimum Swaps to Sort by Digit Sum.md](./Arrays/3551.%20Minimum%20Swaps%20to%20Sort%20by%20Digit%20Sum.md) |
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | 🟡 Medium | Math | [3723. Maximize Sum of Squares of Digits.md](./Math/3723.%20Maximize%20Sum%20of%20Squares%20of%20Digits.md) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | 🟡 Medium | Arrays | [3727. Maximum Alternating Sum of Squares.md](./Arrays/3727.%20Maximum%20Alternating%20Sum%20of%20Squares.md) |
+| 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | 🔴 Hard | Arrays | [3886. Sum of Sortable Integers.md](./Arrays/3886.%20Sum%20of%20Sortable%20Integers.md) |
 
 
