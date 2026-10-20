@@ -3,7 +3,7 @@
 Welcome to my personal LeetCode problem solutions repository! This repository tracks my problem-solving journey, categorized by topic with detailed explanations, clean code implementations, and complexity analyses.
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aromal2486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aromal2486/)
-[![Solved](https://img.shields.io/badge/Problems%20Solved-58-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-59-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
 
 ---
 
@@ -11,10 +11,10 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 
 | Metric | Count |
 | :--- | :---: |
-| 🟢 **Easy** | **51** |
+| 🟢 **Easy** | **52** |
 | 🟡 **Medium** | **5** |
 | 🔴 **Hard** | **2** |
-| **Total Tracked** | **58** |
+| **Total Tracked** | **59** |
 
 ---
 
@@ -29,7 +29,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 🔍 **Binary Search** | 1 | [📁 Binary-Search](./Binary-Search/README.md) |
 | ⚡ **Bit Manipulation** | 2 | [📁 Bit-Manipulation](./Bit-Manipulation/README.md) |
 | ➗ **Math** | 4 | [📁 Math](./Math/README.md) |
-| 🗄️ **Database (SQL)** | 27 | [📁 Database](./Database/README.md) |
+| 🗄️ **Database (SQL)** | 28 | [📁 Database](./Database/README.md) |
 
 ---
 
@@ -85,6 +85,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | 🟢 Easy | Math | [1217. Minimum Cost to Move Chips to The Same Position.md](./Math/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.md) |
 | 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | 🟢 Easy | Database | [1251. Average Selling Price.md](./Database/1251.%20Average%20Selling%20Price.md) |
 | 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | 🟢 Easy | Database | [1280. Students and Examinations.md](./Database/1280.%20Students%20and%20Examinations.md) |
+| 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | 🟢 Easy | Database | [1327. List the Products Ordered in a Period.md](./Database/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period.md) |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | 🟢 Easy | Arrays | [1431. Kids With the Greatest Number of Candies.md](./Arrays/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | 🔴 Hard | Arrays | [1569. Number of Ways to Reorder Array to Get Same BST.md](./Arrays/1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST.md) |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | 🟢 Easy | Strings | [1768. Merge Strings Alternately.md](./Strings/1768.%20Merge%20Strings%20Alternately.md) |
