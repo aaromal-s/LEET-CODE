@@ -3,7 +3,7 @@
 Welcome to my personal LeetCode problem solutions repository! This repository tracks my problem-solving journey, categorized by topic with detailed explanations, clean code implementations, and complexity analyses.
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aromal2486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aromal2486/)
-[![Solved](https://img.shields.io/badge/Problems%20Solved-64-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-65-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
 
 ---
 
@@ -11,10 +11,10 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 
 | Metric | Count |
 | :--- | :---: |
-| 🟢 **Easy** | **56** |
+| 🟢 **Easy** | **57** |
 | 🟡 **Medium** | **5** |
 | 🔴 **Hard** | **3** |
-| **Total Tracked** | **64** |
+| **Total Tracked** | **65** |
 
 ---
 
@@ -29,7 +29,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 🔍 **Binary Search** | 1 | [📁 Binary-Search](./Binary-Search/README.md) |
 | ⚡ **Bit Manipulation** | 2 | [📁 Bit-Manipulation](./Bit-Manipulation/README.md) |
 | ➗ **Math** | 4 | [📁 Math](./Math/README.md) |
-| 🗄️ **Database (SQL)** | 32 | [📁 Database](./Database/README.md) |
+| 🗄️ **Database (SQL)** | 33 | [📁 Database](./Database/README.md) |
 
 ---
 
@@ -91,6 +91,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | 🟢 Easy | Arrays | [1431. Kids With the Greatest Number of Candies.md](./Arrays/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.md) |
 | 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | 🟢 Easy | Database | [1484. Group Sold Products By The Date.md](./Database/1484.%20Group%20Sold%20Products%20By%20The%20Date.md) |
 | 1517 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | 🟢 Easy | Database | [1517. Find Users With Valid E-Mails.md](./Database/1517.%20Find%20Users%20With%20Valid%20E-Mails.md) |
+| 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | 🟢 Easy | Database | [1527. Patients With a Condition.md](./Database/1527.%20Patients%20With%20a%20Condition.md) |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | 🔴 Hard | Arrays | [1569. Number of Ways to Reorder Array to Get Same BST.md](./Arrays/1569.%20Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST.md) |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | 🟢 Easy | Strings | [1768. Merge Strings Alternately.md](./Strings/1768.%20Merge%20Strings%20Alternately.md) |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | 🟢 Easy | Arrays | [2089. Find Target Indices After Sorting Array.md](./Arrays/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array.md) |
