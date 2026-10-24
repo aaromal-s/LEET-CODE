@@ -3,7 +3,7 @@
 Welcome to my personal LeetCode problem solutions repository! This repository tracks my problem-solving journey, categorized by topic with detailed explanations, clean code implementations, and complexity analyses.
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aromal2486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aromal2486/)
-[![Solved](https://img.shields.io/badge/Problems%20Solved-73-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-74-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
 
 ---
 
@@ -11,10 +11,10 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 
 | Metric | Count |
 | :--- | :---: |
-| 🟢 **Easy** | **62** |
+| 🟢 **Easy** | **63** |
 | 🟡 **Medium** | **8** |
 | 🔴 **Hard** | **3** |
-| **Total Tracked** | **73** |
+| **Total Tracked** | **74** |
 
 ---
 
@@ -28,7 +28,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 🔗 **Linked List** | 1 | [📁 Linked-List](./Linked-List/README.md) |
 | 🔍 **Binary Search** | 1 | [📁 Binary-Search](./Binary-Search/README.md) |
 | ⚡ **Bit Manipulation** | 2 | [📁 Bit-Manipulation](./Bit-Manipulation/README.md) |
-| ➗ **Math** | 4 | [📁 Math](./Math/README.md) |
+| ➗ **Math** | 5 | [📁 Math](./Math/README.md) |
 | 🗄️ **Database (SQL)** | 38 | [📁 Database](./Database/README.md) |
 
 ---
@@ -100,6 +100,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | 🟢 Easy | Database | [1667. Fix Names in a Table.md](./Database/1667.%20Fix%20Names%20in%20a%20Table.md) |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | 🟢 Easy | Strings | [1768. Merge Strings Alternately.md](./Strings/1768.%20Merge%20Strings%20Alternately.md) |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | 🟢 Easy | Arrays | [2089. Find Target Indices After Sorting Array.md](./Arrays/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array.md) |
+| 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | 🟢 Easy | Math | [2409. Count Days Spent Together.md](./Math/2409.%20Count%20Days%20Spent%20Together.md) |
 | 2481 | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | 🟢 Easy | Math | [2481. Minimum Cuts to Divide a Circle.md](./Math/2481.%20Minimum%20Cuts%20to%20Divide%20a%20Circle.md) |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | 🟢 Easy | Arrays | [2913. Subarrays Distinct Element Sum of Squares I.md](./Arrays/2913.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20I.md) |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | 🔴 Hard | Arrays | [2916. Subarrays Distinct Element Sum of Squares II.md](./Arrays/2916.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20II.md) |
