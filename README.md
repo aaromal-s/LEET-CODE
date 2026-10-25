@@ -3,7 +3,7 @@
 Welcome to my personal LeetCode problem solutions repository! This repository tracks my problem-solving journey, categorized by topic with detailed explanations, clean code implementations, and complexity analyses.
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aromal2486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aromal2486/)
-[![Solved](https://img.shields.io/badge/Problems%20Solved-74-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-75-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
 
 ---
 
@@ -11,10 +11,10 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 
 | Metric | Count |
 | :--- | :---: |
-| 🟢 **Easy** | **63** |
+| 🟢 **Easy** | **64** |
 | 🟡 **Medium** | **8** |
 | 🔴 **Hard** | **3** |
-| **Total Tracked** | **74** |
+| **Total Tracked** | **75** |
 
 ---
 
@@ -23,7 +23,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | Category | Solved Count | Folder Link |
 | :--- | :---: | :--- |
 | 📦 **Arrays** | 20 | [📁 Arrays](./Arrays/README.md) |
-| 🔤 **Strings** | 6 | [📁 Strings](./Strings/README.md) |
+| 🔤 **Strings** | 7 | [📁 Strings](./Strings/README.md) |
 | 📚 **Stack** | 1 | [📁 Stack](./Stack/README.md) |
 | 🔗 **Linked List** | 1 | [📁 Linked-List](./Linked-List/README.md) |
 | 🔍 **Binary Search** | 1 | [📁 Binary-Search](./Binary-Search/README.md) |
@@ -45,6 +45,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | Stack | [20. Valid Parentheses.md](./Stack/20.%20Valid%20Parentheses.md) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | Arrays | [26. Remove Duplicates from Sorted Array.md](./Arrays/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | Arrays | [27. Remove Element.md](./Arrays/27.%20Remove%20Element.md) |
+| 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | Strings | [28. Find the Index of the First Occurrence in a String.md](./Strings/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.md) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | Binary Search | [35. Search Insert Position.md](./Binary-Search/35.%20Search%20Insert%20Position.md) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | 🟢 Easy | Arrays | [66. Plus One.md](./Arrays/66.%20Plus%20One.md) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | Arrays | [88. Merge Sorted Array.md](./Arrays/88.%20Merge%20Sorted%20Array.md) |
