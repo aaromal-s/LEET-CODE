@@ -3,7 +3,7 @@
 Welcome to my personal LeetCode problem solutions repository! This repository tracks my problem-solving journey, categorized by topic with detailed explanations, clean code implementations, and complexity analyses.
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aromal2486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aromal2486/)
-[![Solved](https://img.shields.io/badge/Problems%20Solved-75-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-76-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
 
 ---
 
@@ -12,9 +12,9 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | Metric | Count |
 | :--- | :---: |
 | 🟢 **Easy** | **64** |
-| 🟡 **Medium** | **8** |
+| 🟡 **Medium** | **9** |
 | 🔴 **Hard** | **3** |
-| **Total Tracked** | **75** |
+| **Total Tracked** | **76** |
 
 ---
 
@@ -29,6 +29,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 🔍 **Binary Search** | 1 | [📁 Binary-Search](./Binary-Search/README.md) |
 | ⚡ **Bit Manipulation** | 2 | [📁 Bit-Manipulation](./Bit-Manipulation/README.md) |
 | ➗ **Math** | 5 | [📁 Math](./Math/README.md) |
+| 🌐 **Graphs** | 1 | [📁 Graphs](./Graphs/README.md) |
 | 🗄️ **Database (SQL)** | 38 | [📁 Database](./Database/README.md) |
 
 ---
@@ -85,6 +86,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) | 🟢 Easy | Database | [1211. Queries Quality and Percentage.md](./Database/1211.%20Queries%20Quality%20and%20Percentage.md) |
 | 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | 🟢 Easy | Math | [1217. Minimum Cost to Move Chips to The Same Position.md](./Math/1217.%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.md) |
 | 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/) | 🟢 Easy | Database | [1251. Average Selling Price.md](./Database/1251.%20Average%20Selling%20Price.md) |
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | 🟡 Medium | Graphs | [1254. Number of Closed Islands.md](./Graphs/1254.%20Number%20of%20Closed%20Islands.md) |
 | 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/) | 🟢 Easy | Database | [1280. Students and Examinations.md](./Database/1280.%20Students%20and%20Examinations.md) |
 | 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/) | 🟢 Easy | Database | [1327. List the Products Ordered in a Period.md](./Database/1327.%20List%20the%20Products%20Ordered%20in%20a%20Period.md) |
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | 🟢 Easy | Database | [1378. Replace Employee ID With The Unique Identifier.md](./Database/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.md) |
