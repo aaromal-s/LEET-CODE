@@ -14,6 +14,7 @@ This folder contains solutions to LeetCode problems focused on **Arrays**, **Two
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | 🟢 Easy | Reverse Traversal & Carry | $O(n)$ | $O(1)$ | [66. Plus One.md](./66.%20Plus%20One.md) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | Three Pointers from Back | $O(m + n)$ | $O(1)$ | [88. Merge Sorted Array.md](./88.%20Merge%20Sorted%20Array.md) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | 🟢 Easy | Dynamic Row Construction | $O(\text{numRows}^2)$ | $O(1)$ | [118. Pascal's Triangle.md](./118.%20Pascal's%20Triangle.md) |
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | 🟢 Easy | In-Place Reverse DP | $O(\text{rowIndex}^2)$ | $O(\text{rowIndex})$ | [119. Pascal's Triangle II.md](./119.%20Pascal's%20Triangle%20II.md) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | One Pass Running Min | $O(n)$ | $O(1)$ | [121. Best Time to Buy and Sell Stock.md](./121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | Boyer-Moore Voting | $O(n)$ | $O(1)$ | [169. Majority Element.md](./169.%20Majority%20Element.md) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | 🟡 Medium | 3-Step Reverse | $O(n)$ | $O(1)$ | [189. Rotate Array.md](./189.%20Rotate%20Array.md) |

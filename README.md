@@ -3,7 +3,7 @@
 Welcome to my personal LeetCode problem solutions repository! This repository tracks my problem-solving journey, categorized by topic with detailed explanations, clean code implementations, and complexity analyses.
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aromal2486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aromal2486/)
-[![Solved](https://img.shields.io/badge/Problems%20Solved-78-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-79-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
 
 ---
 
@@ -11,10 +11,10 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 
 | Metric | Count |
 | :--- | :---: |
-| 🟢 **Easy** | **65** |
+| 🟢 **Easy** | **66** |
 | 🟡 **Medium** | **10** |
 | 🔴 **Hard** | **3** |
-| **Total Tracked** | **78** |
+| **Total Tracked** | **79** |
 
 ---
 
@@ -22,7 +22,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 
 | Category | Solved Count | Folder Link |
 | :--- | :---: | :--- |
-| 📦 **Arrays** | 21 | [📁 Arrays](./Arrays/README.md) |
+| 📦 **Arrays** | 22 | [📁 Arrays](./Arrays/README.md) |
 | 🔤 **Strings** | 7 | [📁 Strings](./Strings/README.md) |
 | 📚 **Stack** | 1 | [📁 Stack](./Stack/README.md) |
 | 🔗 **Linked List** | 1 | [📁 Linked-List](./Linked-List/README.md) |
@@ -52,6 +52,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | 🟢 Easy | Arrays | [66. Plus One.md](./Arrays/66.%20Plus%20One.md) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | Arrays | [88. Merge Sorted Array.md](./Arrays/88.%20Merge%20Sorted%20Array.md) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | 🟢 Easy | Arrays | [118. Pascal's Triangle.md](./Arrays/118.%20Pascal's%20Triangle.md) |
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | 🟢 Easy | Arrays | [119. Pascal's Triangle II.md](./Arrays/119.%20Pascal's%20Triangle%20II.md) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | Arrays | [121. Best Time to Buy and Sell Stock.md](./Arrays/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | Bit Manipulation | [136. Single Number.md](./Bit-Manipulation/136.%20Single%20Number.md) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | Arrays | [169. Majority Element.md](./Arrays/169.%20Majority%20Element.md) |
