@@ -3,7 +3,7 @@
 Welcome to my personal LeetCode problem solutions repository! This repository tracks my problem-solving journey, categorized by topic with detailed explanations, clean code implementations, and complexity analyses.
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aromal2486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aromal2486/)
-[![Solved](https://img.shields.io/badge/Problems%20Solved-79-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-80-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
 
 ---
 
@@ -12,9 +12,9 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | Metric | Count |
 | :--- | :---: |
 | 🟢 **Easy** | **66** |
-| 🟡 **Medium** | **10** |
+| 🟡 **Medium** | **11** |
 | 🔴 **Hard** | **3** |
-| **Total Tracked** | **79** |
+| **Total Tracked** | **80** |
 
 ---
 
@@ -29,7 +29,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 🔍 **Binary Search** | 2 | [📁 Binary-Search](./Binary-Search/README.md) |
 | ⚡ **Bit Manipulation** | 2 | [📁 Bit-Manipulation](./Bit-Manipulation/README.md) |
 | ➗ **Math** | 5 | [📁 Math](./Math/README.md) |
-| 🌐 **Graphs** | 1 | [📁 Graphs](./Graphs/README.md) |
+| 🌐 **Graphs** | 2 | [📁 Graphs](./Graphs/README.md) |
 | 🗄️ **Database (SQL)** | 38 | [📁 Database](./Database/README.md) |
 
 ---
@@ -111,6 +111,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | 🟢 Easy | Arrays | [2913. Subarrays Distinct Element Sum of Squares I.md](./Arrays/2913.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20I.md) |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/) | 🔴 Hard | Arrays | [2916. Subarrays Distinct Element Sum of Squares II.md](./Arrays/2916.%20Subarrays%20Distinct%20Element%20Sum%20of%20Squares%20II.md) |
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | 🟡 Medium | Arrays | [3551. Minimum Swaps to Sort by Digit Sum.md](./Arrays/3551.%20Minimum%20Swaps%20to%20Sort%20by%20Digit%20Sum.md) |
+| 3619 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | 🟡 Medium | Graphs | [3619. Count Islands With Total Value Divisible by K.md](./Graphs/3619.%20Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K.md) |
 | 3644 | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | 🟡 Medium | Arrays | [3644. Maximum K to Sort a Permutation.md](./Arrays/3644.%20Maximum%20K%20to%20Sort%20a%20Permutation.md) |
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | 🟡 Medium | Math | [3723. Maximize Sum of Squares of Digits.md](./Math/3723.%20Maximize%20Sum%20of%20Squares%20of%20Digits.md) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | 🟡 Medium | Arrays | [3727. Maximum Alternating Sum of Squares.md](./Arrays/3727.%20Maximum%20Alternating%20Sum%20of%20Squares.md) |
