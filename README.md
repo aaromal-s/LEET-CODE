@@ -3,7 +3,7 @@
 Welcome to my personal LeetCode problem solutions repository! This repository tracks my problem-solving journey, categorized by topic with detailed explanations, clean code implementations, and complexity analyses.
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aromal2486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aromal2486/)
-[![Solved](https://img.shields.io/badge/Problems%20Solved-81-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-82-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
 
 ---
 
@@ -12,9 +12,9 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | Metric | Count |
 | :--- | :---: |
 | 🟢 **Easy** | **67** |
-| 🟡 **Medium** | **11** |
+| 🟡 **Medium** | **12** |
 | 🔴 **Hard** | **3** |
-| **Total Tracked** | **81** |
+| **Total Tracked** | **82** |
 
 ---
 
@@ -29,7 +29,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 🔍 **Binary Search** | 2 | [📁 Binary-Search](./Binary-Search/README.md) |
 | ⚡ **Bit Manipulation** | 2 | [📁 Bit-Manipulation](./Bit-Manipulation/README.md) |
 | ➗ **Math** | 5 | [📁 Math](./Math/README.md) |
-| 🌐 **Graphs** | 3 | [📁 Graphs](./Graphs/README.md) |
+| 🌐 **Graphs** | 4 | [📁 Graphs](./Graphs/README.md) |
 | 🗄️ **Database (SQL)** | 38 | [📁 Database](./Database/README.md) |
 
 ---
@@ -116,6 +116,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | 🟡 Medium | Math | [3723. Maximize Sum of Squares of Digits.md](./Math/3723.%20Maximize%20Sum%20of%20Squares%20of%20Digits.md) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | 🟡 Medium | Arrays | [3727. Maximum Alternating Sum of Squares.md](./Arrays/3727.%20Maximum%20Alternating%20Sum%20of%20Squares.md) |
 | 3863 | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | 🟡 Medium | Strings | [3863. Minimum Operations to Sort a String.md](./Strings/3863.%20Minimum%20Operations%20to%20Sort%20a%20String.md) |
+| 3882 | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | 🟡 Medium | Graphs | [3882. Minimum XOR Path in a Grid.md](./Graphs/3882.%20Minimum%20XOR%20Path%20in%20a%20Grid.md) |
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | 🔴 Hard | Arrays | [3886. Sum of Sortable Integers.md](./Arrays/3886.%20Sum%20of%20Sortable%20Integers.md) |
 | 3942 | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | 🟡 Medium | Arrays | [3942. Minimum Operations to Sort a Permutation.md](./Arrays/3942.%20Minimum%20Operations%20to%20Sort%20a%20Permutation.md) |
 | 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | 🟢 Easy | Graphs | [3963. Create Grid With Exactly One Path.md](./Graphs/3963.%20Create%20Grid%20With%20Exactly%20One%20Path.md) |
