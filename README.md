@@ -3,7 +3,7 @@
 Welcome to my personal LeetCode problem solutions repository! This repository tracks my problem-solving journey, categorized by topic with detailed explanations, clean code implementations, and complexity analyses.
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aromal2486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aromal2486/)
-[![Solved](https://img.shields.io/badge/Problems%20Solved-83-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-85-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
 
 ---
 
@@ -11,10 +11,10 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 
 | Metric | Count |
 | :--- | :---: |
-| 🟢 **Easy** | **67** |
-| 🟡 **Medium** | **12** |
+| 🟢 **Easy** | **68** |
+| 🟡 **Medium** | **13** |
 | 🔴 **Hard** | **4** |
-| **Total Tracked** | **83** |
+| **Total Tracked** | **85** |
 
 ---
 
@@ -29,8 +29,8 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 🔍 **Binary Search** | 2 | [📁 Binary-Search](./Binary-Search/README.md) |
 | ⚡ **Bit Manipulation** | 2 | [📁 Bit-Manipulation](./Bit-Manipulation/README.md) |
 | ➗ **Math** | 5 | [📁 Math](./Math/README.md) |
-| 🌐 **Graphs** | 5 | [📁 Graphs](./Graphs/README.md) |
-| 🗄️ **Database (SQL)** | 38 | [📁 Database](./Database/README.md) |
+| 🌐 **Graphs** | 6 | [📁 Graphs](./Graphs/README.md) |
+| 🗄️ **Database (SQL)** | 39 | [📁 Database](./Database/README.md) |
 
 ---
 
@@ -104,6 +104,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | 🟢 Easy | Database | [1633. Percentage of Users Attended a Contest.md](./Database/1633.%20Percentage%20of%20Users%20Attended%20a%20Contest.md) |
 | 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | 🟢 Easy | Database | [1661. Average Time of Process per Machine.md](./Database/1661.%20Average%20Time%20of%20Process%20per%20Machine.md) |
 | 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | 🟢 Easy | Database | [1667. Fix Names in a Table.md](./Database/1667.%20Fix%20Names%20in%20a%20Table.md) |
+| 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | 🟢 Easy | Database | [1683. Invalid Tweets.md](./Database/1683.%20Invalid%20Tweets.md) |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | 🟢 Easy | Strings | [1768. Merge Strings Alternately.md](./Strings/1768.%20Merge%20Strings%20Alternately.md) |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | 🟢 Easy | Arrays | [2089. Find Target Indices After Sorting Array.md](./Arrays/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array.md) |
 | 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | 🟢 Easy | Math | [2409. Count Days Spent Together.md](./Math/2409.%20Count%20Days%20Spent%20Together.md) |
@@ -121,5 +122,6 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | 🔴 Hard | Arrays | [3886. Sum of Sortable Integers.md](./Arrays/3886.%20Sum%20of%20Sortable%20Integers.md) |
 | 3942 | [Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/) | 🟡 Medium | Arrays | [3942. Minimum Operations to Sort a Permutation.md](./Arrays/3942.%20Minimum%20Operations%20to%20Sort%20a%20Permutation.md) |
 | 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | 🟢 Easy | Graphs | [3963. Create Grid With Exactly One Path.md](./Graphs/3963.%20Create%20Grid%20With%20Exactly%20One%20Path.md) |
+| 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | 🟡 Medium | Graphs | [3970. Shortest Path With At Most K Consecutive Identical Characters.md](./Graphs/3970.%20Shortest%20Path%20With%20At%20Most%20K%20Consecutive%20Identical%20Characters.md) |
 
 
