@@ -3,7 +3,7 @@
 Welcome to my personal LeetCode problem solutions repository! This repository tracks my problem-solving journey, categorized by topic with detailed explanations, clean code implementations, and complexity analyses.
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aromal2486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aromal2486/)
-[![Solved](https://img.shields.io/badge/Problems%20Solved-85-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-88-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
 
 ---
 
@@ -11,10 +11,10 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 
 | Metric | Count |
 | :--- | :---: |
-| 🟢 **Easy** | **68** |
-| 🟡 **Medium** | **13** |
+| 🟢 **Easy** | **70** |
+| 🟡 **Medium** | **14** |
 | 🔴 **Hard** | **4** |
-| **Total Tracked** | **85** |
+| **Total Tracked** | **88** |
 
 ---
 
@@ -29,8 +29,8 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 🔍 **Binary Search** | 2 | [📁 Binary-Search](./Binary-Search/README.md) |
 | ⚡ **Bit Manipulation** | 2 | [📁 Bit-Manipulation](./Bit-Manipulation/README.md) |
 | ➗ **Math** | 5 | [📁 Math](./Math/README.md) |
-| 🌐 **Graphs** | 6 | [📁 Graphs](./Graphs/README.md) |
-| 🗄️ **Database (SQL)** | 39 | [📁 Database](./Database/README.md) |
+| 🌐 **Graphs** | 7 | [📁 Graphs](./Graphs/README.md) |
+| 🗄️ **Database (SQL)** | 41 | [📁 Database](./Database/README.md) |
 
 ---
 
@@ -105,6 +105,8 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 1661 | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) | 🟢 Easy | Database | [1661. Average Time of Process per Machine.md](./Database/1661.%20Average%20Time%20of%20Process%20per%20Machine.md) |
 | 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | 🟢 Easy | Database | [1667. Fix Names in a Table.md](./Database/1667.%20Fix%20Names%20in%20a%20Table.md) |
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | 🟢 Easy | Database | [1683. Invalid Tweets.md](./Database/1683.%20Invalid%20Tweets.md) |
+| 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | 🟢 Easy | Database | [1693. Daily Leads and Partners.md](./Database/1693.%20Daily%20Leads%20and%20Partners.md) |
+| 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | 🟢 Easy | Database | [1729. Find Followers Count.md](./Database/1729.%20Find%20Followers%20Count.md) |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | 🟢 Easy | Strings | [1768. Merge Strings Alternately.md](./Strings/1768.%20Merge%20Strings%20Alternately.md) |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | 🟢 Easy | Arrays | [2089. Find Target Indices After Sorting Array.md](./Arrays/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array.md) |
 | 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | 🟢 Easy | Math | [2409. Count Days Spent Together.md](./Math/2409.%20Count%20Days%20Spent%20Together.md) |
@@ -114,6 +116,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 3551 | [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/) | 🟡 Medium | Arrays | [3551. Minimum Swaps to Sort by Digit Sum.md](./Arrays/3551.%20Minimum%20Swaps%20to%20Sort%20by%20Digit%20Sum.md) |
 | 3619 | [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | 🟡 Medium | Graphs | [3619. Count Islands With Total Value Divisible by K.md](./Graphs/3619.%20Count%20Islands%20With%20Total%20Value%20Divisible%20by%20K.md) |
 | 3644 | [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation/) | 🟡 Medium | Arrays | [3644. Maximum K to Sort a Permutation.md](./Arrays/3644.%20Maximum%20K%20to%20Sort%20a%20Permutation.md) |
+| 3665 | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | 🟡 Medium | Graphs | [3665. Twisted Mirror Path Count.md](./Graphs/3665.%20Twisted%20Mirror%20Path%20Count.md) |
 | 3723 | [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits/) | 🟡 Medium | Math | [3723. Maximize Sum of Squares of Digits.md](./Math/3723.%20Maximize%20Sum%20of%20Squares%20of%20Digits.md) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | 🟡 Medium | Arrays | [3727. Maximum Alternating Sum of Squares.md](./Arrays/3727.%20Maximum%20Alternating%20Sum%20of%20Squares.md) |
 | 3841 | [Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | 🔴 Hard | Graphs | [3841. Palindromic Path Queries in a Tree.md](./Graphs/3841.%20Palindromic%20Path%20Queries%20in%20a%20Tree.md) |
