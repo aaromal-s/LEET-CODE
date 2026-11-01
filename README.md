@@ -3,7 +3,7 @@
 Welcome to my personal LeetCode problem solutions repository! This repository tracks my problem-solving journey, categorized by topic with detailed explanations, clean code implementations, and complexity analyses.
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aromal2486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aromal2486/)
-[![Solved](https://img.shields.io/badge/Problems%20Solved-89-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-90-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
 
 ---
 
@@ -11,10 +11,10 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 
 | Metric | Count |
 | :--- | :---: |
-| 🟢 **Easy** | **70** |
+| 🟢 **Easy** | **71** |
 | 🟡 **Medium** | **15** |
 | 🔴 **Hard** | **4** |
-| **Total Tracked** | **89** |
+| **Total Tracked** | **90** |
 
 ---
 
@@ -30,7 +30,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | ⚡ **Bit Manipulation** | 2 | [📁 Bit-Manipulation](./Bit-Manipulation/README.md) |
 | ➗ **Math** | 6 | [📁 Math](./Math/README.md) |
 | 🌐 **Graphs** | 7 | [📁 Graphs](./Graphs/README.md) |
-| 🗄️ **Database (SQL)** | 41 | [📁 Database](./Database/README.md) |
+| 🗄️ **Database (SQL)** | 42 | [📁 Database](./Database/README.md) |
 
 ---
 
@@ -108,6 +108,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | 🟢 Easy | Database | [1683. Invalid Tweets.md](./Database/1683.%20Invalid%20Tweets.md) |
 | 1693 | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | 🟢 Easy | Database | [1693. Daily Leads and Partners.md](./Database/1693.%20Daily%20Leads%20and%20Partners.md) |
 | 1729 | [Find Followers Count](https://leetcode.com/problems/find-followers-count/) | 🟢 Easy | Database | [1729. Find Followers Count.md](./Database/1729.%20Find%20Followers%20Count.md) |
+| 1731 | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/) | 🟢 Easy | Database | [1731. The Number of Employees Which Report to Each Employee.md](./Database/1731.%20The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.md) |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | 🟢 Easy | Strings | [1768. Merge Strings Alternately.md](./Strings/1768.%20Merge%20Strings%20Alternately.md) |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | 🟢 Easy | Arrays | [2089. Find Target Indices After Sorting Array.md](./Arrays/2089.%20Find%20Target%20Indices%20After%20Sorting%20Array.md) |
 | 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | 🟢 Easy | Math | [2409. Count Days Spent Together.md](./Math/2409.%20Count%20Days%20Spent%20Together.md) |
