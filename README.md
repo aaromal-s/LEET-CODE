@@ -3,7 +3,7 @@
 Welcome to my personal LeetCode problem solutions repository! This repository tracks my problem-solving journey, categorized by topic with detailed explanations, clean code implementations, and complexity analyses.
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aromal2486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aromal2486/)
-[![Solved](https://img.shields.io/badge/Problems%20Solved-91-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-92-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
 
 ---
 
@@ -12,9 +12,9 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | Metric | Count |
 | :--- | :---: |
 | 🟢 **Easy** | **72** |
-| 🟡 **Medium** | **15** |
+| 🟡 **Medium** | **16** |
 | 🔴 **Hard** | **4** |
-| **Total Tracked** | **91** |
+| **Total Tracked** | **92** |
 
 ---
 
@@ -28,7 +28,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 🔗 **Linked List** | 1 | [📁 Linked-List](./Linked-List/README.md) |
 | 🔍 **Binary Search** | 2 | [📁 Binary-Search](./Binary-Search/README.md) |
 | ⚡ **Bit Manipulation** | 2 | [📁 Bit-Manipulation](./Bit-Manipulation/README.md) |
-| ➗ **Math** | 6 | [📁 Math](./Math/README.md) |
+| ➗ **Math** | 7 | [📁 Math](./Math/README.md) |
 | 🌐 **Graphs** | 7 | [📁 Graphs](./Graphs/README.md) |
 | 🗄️ **Database (SQL)** | 43 | [📁 Database](./Database/README.md) |
 
@@ -67,6 +67,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | Bit Manipulation | [268. Missing Number.md](./Bit-Manipulation/268.%20Missing%20Number.md) |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | 🟢 Easy | Strings | [345. Reverse Vowels of a String.md](./Strings/345.%20Reverse%20Vowels%20of%20a%20String.md) |
 | 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | 🟡 Medium | Math | [453. Minimum Moves to Equal Array Elements.md](./Math/453.%20Minimum%20Moves%20to%20Equal%20Array%20Elements.md) |
+| 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | 🟡 Medium | Math | [462. Minimum Moves to Equal Array Elements II.md](./Math/462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II.md) |
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | 🟢 Easy | Database | [511. Game Play Analysis I.md](./Database/511.%20Game%20Play%20Analysis%20I.md) |
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | 🟢 Easy | Database | [577. Employee Bonus.md](./Database/577.%20Employee%20Bonus.md) |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | 🟢 Easy | Database | [584. Find Customer Referee.md](./Database/584.%20Find%20Customer%20Referee.md) |
