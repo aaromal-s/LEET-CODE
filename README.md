@@ -3,7 +3,7 @@
 Welcome to my personal LeetCode problem solutions repository! This repository tracks my problem-solving journey, categorized by topic with detailed explanations, clean code implementations, and complexity analyses.
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aromal2486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aromal2486/)
-[![Solved](https://img.shields.io/badge/Problems%20Solved-92-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-93-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
 
 ---
 
@@ -11,10 +11,10 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 
 | Metric | Count |
 | :--- | :---: |
-| 🟢 **Easy** | **72** |
+| 🟢 **Easy** | **73** |
 | 🟡 **Medium** | **16** |
 | 🔴 **Hard** | **4** |
-| **Total Tracked** | **92** |
+| **Total Tracked** | **93** |
 
 ---
 
@@ -28,6 +28,6 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | 🔗 **Linked List** | 1 | [📁 Linked-List](./Linked-List/README.md) |
 | 🔍 **Binary Search** | 2 | [📁 Binary-Search](./Binary-Search/README.md) |
 | ⚡ **Bit Manipulation** | 2 | [📁 Bit-Manipulation](./Bit-Manipulation/README.md) |
-| ➗ **Math** | 7 | [📁 Math](./Math/README.md) |
+| ➗ **Math** | 8 | [📁 Math](./Math/README.md) |
 | 🌐 **Graphs** | 7 | [📁 Graphs](./Graphs/README.md) |
 | 🗄️ **Database (SQL)** | 43 | [📁 Database](./Database/README.md) |
