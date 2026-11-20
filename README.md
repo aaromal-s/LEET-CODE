@@ -3,7 +3,7 @@
 Welcome to my personal LeetCode problem solutions repository! This repository tracks my problem-solving journey, categorized by topic with detailed explanations, clean code implementations, and complexity analyses.
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aromal2486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aromal2486/)
-[![Solved](https://img.shields.io/badge/Problems%20Solved-114-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-115-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
 
 ---
 
@@ -12,9 +12,9 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | Metric | Count |
 | :--- | :---: |
 | 🟢 **Easy** | **82** |
-| 🟡 **Medium** | **24** |
+| 🟡 **Medium** | **25** |
 | 🔴 **Hard** | **8** |
-| **Total Tracked** | **114** |
+| **Total Tracked** | **115** |
 
 ---
 
@@ -30,4 +30,4 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | ⚡ **Bit Manipulation** | 2 | [📁 Bit-Manipulation](./Bit-Manipulation/README.md) |
 | ➗ **Math** | 9 | [📁 Math](./Math/README.md) |
 | 🌐 **Graphs** | 7 | [📁 Graphs](./Graphs/README.md) |
-| 🗄️ **Database (SQL)** | 47 | [📁 Database](./Database/README.md) |
+| 🗄️ **Database (SQL)** | 48 | [📁 Database](./Database/README.md) |
