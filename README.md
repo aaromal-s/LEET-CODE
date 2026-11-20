@@ -3,7 +3,7 @@
 Welcome to my personal LeetCode problem solutions repository! This repository tracks my problem-solving journey, categorized by topic with detailed explanations, clean code implementations, and complexity analyses.
 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Aromal2486-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aromal2486/)
-[![Solved](https://img.shields.io/badge/Problems%20Solved-116-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
+[![Solved](https://img.shields.io/badge/Problems%20Solved-117-brightgreen?style=for-the-badge)](https://leetcode.com/u/Aromal2486/)
 
 ---
 
@@ -13,8 +13,8 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 | :--- | :---: |
 | 🟢 **Easy** | **82** |
 | 🟡 **Medium** | **26** |
-| 🔴 **Hard** | **8** |
-| **Total Tracked** | **116** |
+| 🔴 **Hard** | **9** |
+| **Total Tracked** | **117** |
 
 ---
 
@@ -22,7 +22,7 @@ Welcome to my personal LeetCode problem solutions repository! This repository tr
 
 | Category | Solved Count | Folder Link |
 | :--- | :---: | :--- |
-| 📦 **Arrays** | 34 | [📁 Arrays](./Arrays/README.md) |
+| 📦 **Arrays** | 35 | [📁 Arrays](./Arrays/README.md) |
 | 🔤 **Strings** | 10 | [📁 Strings](./Strings/README.md) |
 | 📚 **Stack** | 1 | [📁 Stack](./Stack/README.md) |
 | 🔗 **Linked List** | 1 | [📁 Linked-List](./Linked-List/README.md) |
